@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    display: block;
+    background-color: gray;
+    padding: 10px;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+ }
+
+ 
+
+nav{
+    display:block;
+    background-color: lightgray;
+    text-align: left;
+    list-style-type: none;
+    float: left;
+    height: 300px;
+    padding: 20px;
+    padding-right: 200px;
+    margin-bottom: 0px;
+}
+
+article{
+    padding: 20px;
+    height: 300px;
+    margin-bottom: 0px;
+}
+
+footer{
+    display: block;
+    background-color: gray;
+    text-align: center;
+    margin-top: 0%;
+    padding: 10px;
+    color: white;
+}
